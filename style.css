@@ -1,0 +1,84 @@
+body{
+    background-image: url(images/Screenshot\ 2024-07-31\ 212047.png);
+    background-repeat: no-repeat;
+    opacity: -60px;
+    background-blend-mode: 20px;
+    background-size: cover;
+    
+}
+
+
+.img1{
+    height: 80px;
+    width:90px ;
+}
+.img2{
+    height: 80px;
+    width:90px ;
+}
+.img3{
+    height: 80;
+    width:90px ;
+}
+.img4{
+    height: 80px;
+    width:90px ;
+}
+
+.img{
+    height: 280px;
+    width: 280px;
+}
+
+.inc{
+    height: 30px;
+    width: 90px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    padding: 15px 25px 30px 25px;
+    border: 0;
+    font-size: 14px;
+    margin-left: 120px;
+    margin-top: -150px;
+}
+.res{
+    height: 30px;
+    width: 90px;
+    background-color:purple;
+    color: white;
+    border-radius: 20px;
+    padding: 15px 25px 30px 25px;
+    border: 0;
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: -150px;
+}
+.dec{
+    height: 30px;
+    width: 90px;
+    background-color:blue;
+    color: white;
+    border-radius: 20px;
+    padding: 15px 25px 30px 25px;
+    border: 0;
+    font-size: 14px;
+    margin-left: 100px;
+    margin-top: -150px;
+    
+}
+#counter{
+    
+    font-size: 38px;
+    margin-left: 330px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:green;
+   
+
+    
+}
+.count{
+    margin-left: 190px;
+    font-size: 45px;
+    color: chocolate;
+}
